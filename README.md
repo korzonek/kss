@@ -1,4 +1,4 @@
-# Knyle Style Sheets
+# Knyle Style Sheets[![codebeat](https://codebeat.co/badges/dcff10f1-ce7d-4faa-a307-a680c3575834)](https://codebeat.co/projects/github-com-kneath-kss)
 
 Inspired by [TomDoc](http://tomdoc.org), KSS attempts to provide a methodology for writing maintainable, documented CSS within a team. Specifically, KSS is a documentation specification and styleguide format. It is **not** a preprocessor, CSS framework, naming convention, or specificity guideline.
 
